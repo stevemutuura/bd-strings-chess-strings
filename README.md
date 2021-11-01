@@ -114,8 +114,6 @@ will be handling later in the program.
 This method may be called with the string "e2". The method should
 convert this String to the index 12.
 
-(Image)
-
 #### Hints:
 
 - `String.charAt(int index)` returns a character at a given string index.
