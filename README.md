@@ -101,7 +101,7 @@ It takes a String as input and we expect the String to be of the form:
  - `x` is a letter from a-h
  - `y` is a number from 1-8
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/SCD_algebraic_notation.svg/1200px-SCD_algebraic_notation.svg.png
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/SCD_algebraic_notation.svg/1200px-SCD_algebraic_notation.svg.png)
 
 ```
 NOTE: It is possible to test coordinates as they come in to make
