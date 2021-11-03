@@ -122,8 +122,9 @@ convert this String to the index 12.
     - You can typecast a `char` as an `int`.
     - `(int)'a' == 97`.
     - `(int)'1' == 49`.
+    - Here's an [ASCII table](https://www.asciitable.com/)  to see what characters map to each value.
 - Look how the index numbers change as you move up rows 1-8.
-    - Look how they change as you move down the columns a-h.
+- Look how they change as you move down the columns a-h.
 
 ## `move(String from, String to)`    
 
