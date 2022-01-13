@@ -54,7 +54,7 @@ This is so that the `a1` square corresponds to the 0th index of the String.*
 Complete the following methods according to the descriptions and hints provided
 in the following sections.
 
-## `printBoard()`
+## `printGame()`
 
 Use substrings to print each row of the board to the console. Remember that the
 pieces String looks upside down to the real board.
