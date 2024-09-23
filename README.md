@@ -81,7 +81,7 @@ pppppppp
 xxnxxxxx
 xxxxxxxx
 xxxxxxPx
-xxxxxxxx
+xxxxxxxx 
 PPPPPPxP
 RNBQKBNR
 ```

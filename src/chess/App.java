@@ -6,16 +6,16 @@ import java.util.Scanner;
 
 public class App {
 
-    public static boolean graphics = false;
+    public static boolean graphics = true;
 
-    public static void main(String[] args) {
+    public static void  main(String[] args) {
         ChessController cc = new ChessController();
 
         cc.move("e2", "e4");
         cc.printGame();
 
-//        System.out.println("Type 'q' to quit");
-//        runGame(cc);
+        System.out.println("Type 'q' to quit");
+        runGame(cc);
     }
 
     public static void runGame(ChessController cc) {
